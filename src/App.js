@@ -1,11 +1,13 @@
 import "./styles/style.css";
-import { ProductList } from "./components";
+import { FiltersPanel, ProductList } from "./components";
 
 function App() {
   return (
     <div className="App">
-      <ProductList />
-     
+      <main className="main-wr fx-r">
+        {/* <FiltersPanel /> */}
+        <ProductList />
+      </main>
     </div>
   );
 }

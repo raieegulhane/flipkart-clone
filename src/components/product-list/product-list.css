@@ -1,3 +1,31 @@
 .pl-wr {
+    background-color: var(--white);
+    width: fit-content;
+}
+
+.pl-cn {
     flex-wrap: wrap;
+}
+
+.pl-header {
+    padding: 0.5rem;
+    gap: 1rem;
+}
+
+.pl-head {
+    font-size: 18px;
+}
+
+.pl-sort {
+    gap: 1rem;
+}
+
+.sort-criteria {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.sort-criteria:hover {
+    text-decoration: underline;
 }
