@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    /*** fonts ***/
+    --font: 'Roboto', sans-serif;;
+
+    /*** color ***/
+    --black: rgb(33, 33, 33);
+    --white: #fff;
+    --grey1: rgb(135, 135, 135);
+    --green: #2fa84a;
+}

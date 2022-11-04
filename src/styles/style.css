@@ -1,0 +1,28 @@
+@import url("./variables.css");
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: var(--font);
+}
+
+.txt-bold {
+    font-weight: bold;
+}
+
+.fx-c {
+    display: flex;
+    flex-direction: column;
+}
+
+.fx-r {
+    display: flex;
+    flex-direction: row;
+}
+
+.fx-js-c {
+    justify-content: center;
+}
