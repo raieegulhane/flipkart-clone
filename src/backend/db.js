@@ -135,7 +135,7 @@ export const products = [
     sizes: ["S", "M", "L", "XL"],
     inStock: true,
     flipkartAssured: true,
-    productImg: "https://rukminim1.flixcart.com/image/832/832/kxqg2a80/kids-apparel-combo/f/y/l/0-3-months-new-born-baby-winter-wear-keep-warm-cartoon-printing-original-imaga4fv48w62bnq.jpeg?q=70"
+    productImg: "https://rukminim1.flixcart.com/image/832/832/ky1vl3k0/kids-apparel-combo/p/5/z/0-3-months-new-born-baby-winter-wear-keep-warm-cartoon-printing-original-imaga3gzbmgjdqux.jpeg?q=70"
   },
   {
     _id: uuid(),

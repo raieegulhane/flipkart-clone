@@ -1,10 +1,10 @@
 import "./styles/style.css";
-import { ProductCard } from "./components";
+import { ProductList } from "./components";
 
 function App() {
   return (
     <div className="App">
-      <ProductCard />
+      <ProductList />
      
     </div>
   );
